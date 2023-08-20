@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgbois.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgbois instance 10000" x="0" y="0" width="1614" height="775" frameX="0" frameY="-11" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10001" x="1614" y="0" width="1614" height="775" frameX="0" frameY="-11" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10002" x="3228" y="0" width="1614" height="775" frameX="0" frameY="-11" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10003" x="4842" y="0" width="1614" height="775" frameX="0" frameY="-11" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10004" x="6456" y="0" width="1613" height="782" frameX="-2" frameY="-4" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10005" x="0" y="782" width="1613" height="782" frameX="-2" frameY="-4" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10006" x="1613" y="782" width="1611" height="785" frameX="-3" frameY="-1" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10007" x="3224" y="782" width="1611" height="785" frameX="-3" frameY="-1" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10008" x="4835" y="782" width="1611" height="786" frameX="-3" frameY="0" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10009" x="6446" y="782" width="1611" height="786" frameX="-3" frameY="0" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10010" x="0" y="1568" width="1612" height="786" frameX="-3" frameY="0" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10011" x="1612" y="1568" width="1612" height="786" frameX="-3" frameY="0" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10012" x="3224" y="1568" width="1611" height="786" frameX="-3" frameY="0" frameWidth="1615" frameHeight="786"/>
+	<SubTexture name="bgbois instance 10013" x="4835" y="1568" width="1611" height="786" frameX="-3" frameY="0" frameWidth="1615" frameHeight="786"/>
+</TextureAtlas>
