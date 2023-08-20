@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NoobGF.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFban0000" x="5" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0001" x="5" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0002" x="1108" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0003" x="1108" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0004" x="2211" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0005" x="2211" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0006" x="3314" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0007" x="3314" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0008" x="4417" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0009" x="4417" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0010" x="5520" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0011" x="5520" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0012" x="6623" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0013" x="6623" y="5" width="1096" height="1158"/>
+	<SubTexture name="GFban0014" x="5" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0015" x="5" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0016" x="1108" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0017" x="1108" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0018" x="2211" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0019" x="2211" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0020" x="3314" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0021" x="3314" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0022" x="4417" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0023" x="4417" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0024" x="5520" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0025" x="5520" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFban0026" x="5520" y="1170" width="1096" height="1158"/>
+	<SubTexture name="GFidleLeft0000" x="6623" y="1170" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0001" x="6623" y="1170" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0002" x="7268" y="1170" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0003" x="7268" y="1170" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0004" x="5" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0005" x="5" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0006" x="650" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0007" x="1295" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0008" x="1295" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0009" x="1295" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0010" x="1940" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0011" x="1940" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0012" x="1940" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0013" x="2585" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleLeft0014" x="2585" y="2335" width="638" height="846"/>
+	<SubTexture name="GFidleRight0000" x="3230" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0001" x="3230" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0002" x="3890" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0003" x="3890" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0004" x="4550" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0005" x="4550" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0006" x="5210" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0007" x="5870" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0008" x="5870" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0009" x="5870" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0010" x="6530" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0011" x="6530" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0012" x="6530" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0013" x="7190" y="2335" width="653" height="847"/>
+	<SubTexture name="GFidleRight0014" x="7190" y="2335" width="653" height="847"/>
+</TextureAtlas>
