@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFIdle"
+		},
+		{
+			"offsets": [
+				114,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFleft"
+		},
+		{
+			"offsets": [
+				56,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFDown"
+		},
+		{
+			"offsets": [
+				39,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFUp"
+		},
+		{
+			"offsets": [
+				-16,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFRight"
+		},
+		{
+			"offsets": [
+				113,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LeftMissBF"
+		},
+		{
+			"offsets": [
+				41,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownMissBF"
+		},
+		{
+			"offsets": [
+				41,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUpBF"
+		},
+		{
+			"offsets": [
+				-10,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MissRightBF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RobloxBF",
+	"position": [
+		-100,
+		30
+	],
+	"healthicon": "bfroblox",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		201,
+		0
+	],
+	"camera_position": [
+		80,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}
