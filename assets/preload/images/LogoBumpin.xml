@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nooberlogo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LogoBop0000" x="5" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0001" x="5" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0002" x="496" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0003" x="496" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0004" x="987" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0005" x="987" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0006" x="1478" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0007" x="1478" y="5" width="484" height="511"/>
+	<SubTexture name="LogoBop0008" x="5" y="523" width="484" height="511"/>
+	<SubTexture name="LogoBop0009" x="5" y="523" width="484" height="511"/>
+	<SubTexture name="LogoBop0010" x="5" y="523" width="484" height="511"/>
+	<SubTexture name="LogoBop0011" x="5" y="523" width="484" height="511"/>
+	<SubTexture name="LogoBop0012" x="5" y="523" width="484" height="511"/>
+	<SubTexture name="LogoBop0013" x="5" y="523" width="484" height="511"/>
+</TextureAtlas>
